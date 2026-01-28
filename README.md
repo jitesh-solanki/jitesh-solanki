@@ -1,28 +1,20 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,100:302b63&height=250&section=header&text=JITESH%20SOLANKI&fontColor=00ffcc&fontSize=50&animation=twinkling" />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,100:302b63&height=250&section=header&text=JITESH%20SOLANKI&fontColor=00ffcc&fontSize=50&animation=twinkling" /> </div> <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=System.booting...;Frontend+Developer+Detected;UI+over+Ugly;React+Learner;Welcome+to+My+Code+World" /> </div>
+🧠 SYSTEM PROFILE
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=System.booting...;Frontend+Developer+Detected;UI+over+Ugly;React+Learner;Welcome+to+My+Code+World" />
-</div>
-
----
-
-## 🧠 SYSTEM PROFILE
-
-```yaml
 Name: Jitesh Solanki
 Role: Frontend Developer
 Status: Building beautiful interfaces
 OS: JavaScript
 Framework: React
 Theme: Dark Mode Only
+
 ⚡ ACTIVE MISSIONS
-🛰️ Working on: Frontend & UI Projects
+
+🛰 Working on: Frontend & UI Projects
 🤝 Collaborating on: React & Design Systems
 🧩 Need help with: JavaScript Logic
 📚 Learning: React.js
-🗣️ Ask me about: HTML, CSS, UI Tricks
+🗣 Ask me about: HTML, CSS, UI Tricks
 🎯 Fun fact: I fix CSS at 3AM
 
 🧬 TECH DNA
@@ -35,6 +27,6 @@ Theme: Dark Mode Only
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=jitesh-solanki&theme=matrix&no-frame=true&row=1&column=7"/> </p>
 🐍 CONTRIBUTION VIRUS
 <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" /> </p>
-🕶️ VISITOR LOG
+🕶 VISITOR LOG
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=jitesh-solanki&icon=5&color=10" /> </p>
-<div align="center"> 💀 *“Talk is cheap. Show me the UI.”* 💀 </div> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:302b63,100:0f0c29&height=120&section=footer" /> ```
+<div align="center"> 💀 <b>“Talk is cheap. Show me the UI.”</b> 💀 </div> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:302b63,100:0f0c29&height=120&section=footer" />
